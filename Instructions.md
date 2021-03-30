@@ -15,7 +15,7 @@ Inside the new repository that you just created, add any VBA files you use for t
 [Stock Data](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-data-pt-03-2021-u-c/blob/master/02-VBA-Scripting/Homework/Instructions/Resources/Multiple_year_stock_data.xlsxz) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
-![](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-data-pt-03-2021-u-c/raw/master/02-VBA-Scripting/Homework/Instructions/Images/stockmarket.jpg)
+![stock](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-data-pt-03-2021-u-c/raw/master/02-VBA-Scripting/Homework/Instructions/Images/stockmarket.jpg)
 
 ## Instructions
 
