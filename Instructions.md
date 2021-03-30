@@ -15,7 +15,7 @@ Inside the new repository that you just created, add any VBA files you use for t
 [Stock Data](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-data-pt-03-2021-u-c/blob/master/02-VBA-Scripting/Homework/Instructions/Resources/Multiple_year_stock_data.xlsxz) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
-![stock](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-data-pt-03-2021-u-c/raw/master/02-VBA-Scripting/Homework/Instructions/Images/stockmarket.jpg)
+![](/Images/stockmarket.jpg)
 
 ## Instructions
 
@@ -29,12 +29,12 @@ Inside the new repository that you just created, add any VBA files you use for t
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
 * The result should look as follows.
-![](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-data-pt-03-2021-u-c/raw/master/02-VBA-Scripting/Homework/Instructions/Images/moderate_solution.png)
+![](/moderate_solution.png)
 
 ## BONUS
 
 * Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
-![](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-data-pt-03-2021-u-c/raw/master/02-VBA-Scripting/Homework/Instructions/Images/hard_solution.png)
+![](/Images/hard_solution.png)
 
 * Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
